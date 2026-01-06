@@ -42,7 +42,7 @@ A full-featured e-commerce gift shop built with Laravel 12, featuring product ma
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/lynsromero/e-commerce-admin-dash.git
    cd Laravel-GiftShop-Ecommerce
    ```
 
